@@ -42,3 +42,5 @@ class CF7_WPML {
     return $scanned_tag;
   }
 }
+
+$cf7_wpml = new CF7_WPML();
